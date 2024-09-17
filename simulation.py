@@ -1,3 +1,5 @@
+# Written by UQ FinTech Club 
+
 # Library Imports
 import os
 import pandas as pd
