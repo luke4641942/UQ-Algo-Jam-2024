@@ -17,6 +17,10 @@ Coffee Beans Returns ($): 25,262.88
 Goober Eats Returns ($): 311,250.00
 Milk Returns ($): 46,300.00
 
+| --- | ----------- |
+| Total PNL | $2,029,440.92 |
+| Paragraph | Text |
+
 
 Legend:
 Algorithms - algorithms.py
